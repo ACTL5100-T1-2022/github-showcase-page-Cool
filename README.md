@@ -197,7 +197,7 @@ After the data manipulation procedures, the dimension of measurement for each na
 >     $$
 >     w_{j}=\frac{1-E_j}{m-\sum^{m}_{j=1}E_j}
 >     $$
-> <img src="https://render.githubusercontent.com/render/math?math={\color{white}\L = E_i=-ln(n)^{-1}">
+> <img src="https://render.githubusercontent.com/render/math?math=E_i=-ln(n)^{-1}">
 > Example of entropy weighted method applied to forward shooting:
 > Standardized data:
 >
