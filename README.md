@@ -90,12 +90,12 @@ Football has been a heavily watched sport worldwide and the success of the natio
 * Assume that the outflow of expenses and the inflow of revenues are at end of each year;
 * Discount rate – 4.45% 
 
-The average rate for nominal spot rates of risk-free bonds mature in 2032 which is higher than that of earlier maturity hence being more conservative.
+  The average rate for nominal spot rates of risk-free bonds mature in 2032 which is higher than that of earlier maturity hence being more conservative.
 
 
 * Annual percentage rate for 6-year loan - 2.8%
 
-The average of nominal risk-free rate for the maturity of 6 years during the year 2010-2020
+  The average of nominal risk-free rate for the maturity of 6 years during the year 2010-2020
 
 ## Team Selection
 
