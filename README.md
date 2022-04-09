@@ -190,9 +190,8 @@ After the data manipulation procedures, the dimension of measurement for each na
 > Entropy Weight Formulas:
 >
 > - Index's entropy:
->     $$
->     E_i=-ln(n)^{-1} \sum^{n}_{i=1}f_{ij}ln(f_{ij}) \space , \space where \space f_{ij}=\frac{Y_{ij}}{\sum^{n}_{i=1}Y_{ij}}
->     $$
+> 
+>  $$ E_i=-ln(n)^{-1} \sum^{n}_{i=1}f_{ij}ln(f_{ij}) \space , \space where \space f_{ij}=\frac{Y_{ij}}{\sum^{n}_{i=1}Y_{ij}} $$
 >
 > - Entropy weight
 >     $$
