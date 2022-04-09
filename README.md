@@ -183,21 +183,19 @@ After the data manipulation procedures, the dimension of measurement for each na
 > Standardized formulas:
 >
 > Positive index means the higher the better performance, negative index means the lower the better performance.
-> $$
-> positive \space index:Y_{ij}=\frac{X_{ij}-min{(X_i)}}{max{(X_i)}-min{(X_i)}} \\
-> negative \space index:Y_{ij}=\frac{max{(X_i)}-X_{ij}}{max{(X_i)}-min{(X_i)}}
-> $$
+> 
+> <img src="https://render.githubusercontent.com/render/math?math={\color{white}positive \space index:Y_{ij}=\frac{X_{ij}-min{(X_i)}}{max{(X_i)}-min{(X_i)}}}">
+> <img src="https://render.githubusercontent.com/render/math?math={\color{white}negative \space index:Y_{ij}=\frac{max{(X_i)}-X_{ij}}{max{(X_i)}-min{(X_i)}}}">
+> 
 > Entropy Weight Formulas:
 >
 > - Index's entropy:
 > 
-> $E_i=-ln(n)^{-1}\sum^{n}_{i=1}f_{ij}ln(f_{ij}),where f_{ij}=\frac{Y_{ij}}{\sum^{n}_{i=1}Y_{ij}}$
+> <img src="https://render.githubusercontent.com/render/math?math={\color{white}E_i=-ln(n)^{-1}\sum^{n}_{i=1}f_{ij}ln(f_{ij}), \space where \space f_{ij}=\frac{Y_{ij}}{\sum^{n}_{i=1}Y_{ij}}}">
 >
 > - Entropy weight
->     $$
->     w_{j}=\frac{1-E_j}{m-\sum^{m}_{j=1}E_j}
->     $$
-> <img src="https://render.githubusercontent.com/render/math?math={\color{white}\E_i=-ln(n)^{-1}}">
+>
+> <img src="https://render.githubusercontent.com/render/math?math={\color{white}w_{j}=\frac{1-E_j}{m-\sum^{m}_{j=1}E_j}}">
 > 
 > Example of entropy weighted method applied to forward shooting:
 > Standardized data:
