@@ -191,13 +191,13 @@ After the data manipulation procedures, the dimension of measurement for each na
 >
 > - Index's entropy:
 > 
-> $$E_i=-ln(n)^{-1}\sum^{n}_{i=1}f_{ij}ln(f_{ij}),wheref_{ij}=\frac{Y_{ij}}{\sum^{n}_{i=1}Y_{ij}}$$
+> $E_i=-ln(n)^{-1}\sum^{n}_{i=1}f_{ij}ln(f_{ij}),where f_{ij}=\frac{Y_{ij}}{\sum^{n}_{i=1}Y_{ij}}$
 >
 > - Entropy weight
 >     $$
 >     w_{j}=\frac{1-E_j}{m-\sum^{m}_{j=1}E_j}
 >     $$
-> $$E_i=-ln(n)^{-1}$$
+> $E_i=-ln(n)^{-1}$
 > Example of entropy weighted method applied to forward shooting:
 > Standardized data:
 >
