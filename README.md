@@ -10,8 +10,19 @@
 <img src="football.gif"  width="650" height="450"/>
 </p>
 
+---
+
+## Overview
+
+This page is used to showcase our project briefly. This showcase page will include brief discussion on the main objective of the project, assumptions, team selection, expense and revenue analysis, implementation, economic impact, risks and risk mitigation, and data and data limitation.
+
+> To access the full report, please click [Full Report](Team_Cool_Report_of_Construction_of_the_Competitive_national_football_team_for_Rarita.docx).
+> To find more details on 2022 SOA Challenge, please click [2022 SOA Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/).
+
+>
 <!-- TABLE OF CONTENTS -->
 <details open>
+  <b>
   <summary style = "font-size:13pt;">Table of Contents</summary>
   <ol>
     <li>
@@ -63,15 +74,8 @@
       </ol>
     </li>
   </ol>
+  </b>
 </details>
----
-
-## Overview
-
-This page is used to showcase our project briefly. This showcase page will include brief discussion on the main objective of the project, assumptions, team selection, expense and revenue analysis, implementation, economic impact, risks and risk mitigation, and data and data limitation.
-
-> To access the full report, please click [Full Report](Team_Cool_Report_of_Construction_of_the_Competitive_national_football_team_for_Rarita.docx).
-> To find more details on 2022 SOA Challenge, please click [2022 SOA Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/).
 
 ---
 
