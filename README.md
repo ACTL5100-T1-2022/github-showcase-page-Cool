@@ -180,22 +180,26 @@ After the data manipulation procedures, the dimension of measurement for each na
 | Varijitri Isles         | 0.0170         | 0.0327        | 0.0455        | 0.0278        | 0.0317        | 0.0282        | 0.0235            | 24         |
 | Xikong                  | 0.0237         | 0.0077        | 0.0164        | 0.0074        | 0.0160        | 0.0249        | 0.0299            | 12         |
 
-> Standardized formulas:
+> **Standardized formulas:**
 >
 > Positive index means the higher the better performance, negative index means the lower the better performance.
+>
+>  - Positive index:
 > 
-> <img src="https://render.githubusercontent.com/render/math?math={\color{white}positive \space index:Y_{ij}=\frac{X_{ij}-min{(X_i)}}{max{(X_i)}-min{(X_i)}}}">
-> <img src="https://render.githubusercontent.com/render/math?math={\color{white}negative \space index:Y_{ij}=\frac{max{(X_i)}-X_{ij}}{max{(X_i)}-min{(X_i)}}}">
+> ![](https://latex.codecogs.com/png.image?\dpi{110}Y_{ij}=\frac{X_{ij}-min{(X_i)}}{max{(X_i)}-min{(X_i)}})
 > 
-> Entropy Weight Formulas:
+> - Negative index: 
+>
+> ![](http://latex.codecogs.com/png.image?\dpi{110}Y_{ij}=\frac{max{(X_i)}-X_{ij}}{max{(X_i)}-min{(X_i)}})
+
+> **Entropy Weight Formulas:**
 >
 > - Index's entropy:
 > 
-> <img src="https://render.githubusercontent.com/render/math?math={\color{white}E_i=-ln(n)^{-1}\sum^{n}_{i=1}f_{ij}ln(f_{ij}), \space where \space f_{ij}=\frac{Y_{ij}}{\sum^{n}_{i=1}Y_{ij}}}">
->
+> ![](https://latex.codecogs.com/png.image?\dpi{110}E_i=-ln(n)^{-1}\sum^{n}_{i=1}f_{ij}ln(f_{ij})\space\&space;,where\space\&space;f_{ij}=\frac{Y_{ij}}{\sum^{n}_{i=1}Y_{ij})
 > - Entropy weight
 >
-> <img src="https://render.githubusercontent.com/render/math?math={\color{white}w_{j}=\frac{1-E_j}{m-\sum^{m}_{j=1}E_j}}">
+>![](https://latex.codecogs.com/png.image?\dpi{110}w_{j}=\frac{1-E_j}{m-\sum^{m}_{j=1}E_j})
 > 
 > Example of entropy weighted method applied to forward shooting:
 > Standardized data:
