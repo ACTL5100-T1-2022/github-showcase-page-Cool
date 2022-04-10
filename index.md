@@ -366,6 +366,7 @@ e. From 2021, each term used in calculation should be derived by multiplying the
 | 2031 | ∂ 224272166               | ∂ 22427217      | ∂ 246699382                       | ∂ 18.19            |
 | 2032 | ∂ 231138719               | ∂ 23113872      | ∂ 254252591                       | ∂ 18.67            |
 
+
 | Year | Foreign players' salaries (∂) | Rent of players (∂) | Total Expense for foreign players  (∂) | per Capita Expense (∂) |
 | ---- | ----------------------------- | ------------------- | -------------------------------------- | ---------------------- |
 | 2021 | 173866000.00                  | 17386600.00         | 191252600.00                           | 14.71                  |
