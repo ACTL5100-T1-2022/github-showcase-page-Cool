@@ -312,7 +312,7 @@ e. From 2021, each term used in calculation should be derived by multiplying the
 | 2032 | 379.60                           | 256.39                             | 123.21                                | 201.64                    | 177.96           | 177.96                    | 18.67                           | 196.63                 |
 
 > Predicted inflation rates:
->
+
 | Year | Annual Inflation rate |
 | ---- | --------------------- |
 | 2021 | 2.01%                 |
@@ -350,7 +350,7 @@ e. From 2021, each term used in calculation should be derived by multiplying the
 | 2032 | 13615216   |
 
 > Expenses for foreign players:
-> 
+
 | Year | Foreign players' salaries | Rent of players | Total Expense for foreign players | per Capita Expense |
 | ---- | ------------------------- | --------------- | --------------------------------- | ------------------ |
 | 2021 | ∂ 173866000               | ∂ 17386600      | ∂ 191252600                       | ∂ 14.71            |
