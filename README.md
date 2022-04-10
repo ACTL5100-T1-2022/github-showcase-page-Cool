@@ -471,7 +471,7 @@ It seems no exaggeration to say that excellent national sports results can enhan
 * 2028: repay the loan 
 * 2029-2032: Keep monitoring (revenue and growth on GDP) and lend the substitutes to other countries, if possible, to achieve extra revenue     
 
-Source of revenues -for these ten years
+ Source of revenues -for these ten years
 
 First, the gate receipts and licensing are the most basic source of income, accounting for approximately 15%, and catering sales on the matchday can also increase the revenues. 
 
