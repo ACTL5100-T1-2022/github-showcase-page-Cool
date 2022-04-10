@@ -19,45 +19,60 @@ This page is used to showcase our project briefly. This showcase page will inclu
 > To access the full report, please click [Full Report](Team_Cool_Report_of_Construction_of_the_Competitive_national_football_team_for_Rarita.docx).
 > To find more details on 2022 SOA Challenge, please click [2022 SOA Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/).
 
-### Table of contents
-
-1. [Objectives](#Objectives)
-2. [Assumptions](#Assumptions)
-3. [Team Selection](#Team-Selection)
-
-    i. [Structure](#Structure)
-    
-    ii. [Data Preparation](#Data-Preparation)
-    
-    iii. [Entropy weighted method](#Entropy-weighted-method)
-    
-    iv. [Modelling and team selection](#Modelling-and-team-selection)   
-    
-4. [Expense and Revenue](#Expense-and-Revenue)
-
-    i. [Expense](#Expense)
-    
-    ii. [Revenue](#Revenue)
-    
-    iii. [Net income](#Net-income)    
-5. [Economic Effects](#Economic-Effects)
-
-    i. [Impact on other industries](#Impact-on-other-industries)
-    
-    ii. [International impact and net exports](#International-impact-and-net-exports)    
-6. [Implementation plan](#Implementation-plan)
-7. [Risk and Risk mitigation](#Risk-and-Risk-mitigation)
-
-    i. [biased data](#Biased-data)
-    
-    ii. [misjudged expense](#Misjudged-expense)
-    
-    iii. [sensitivity test of annual percentage rate and discount rate](#Sensitivity-test-of-annual-percentage-rate-and-discount-rate)
-8. [Data and Data Limitatio](#Data-and-Data-Limitation)
-
-   i. [Data used](#Data-used)
-   
-   ii. [Data limitation](#Data-limitation)
+<!-- TABLE OF CONTENTS -->
+<details open>
+  <summary style = "font-size:13pt;">Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#Objectives">Objectives</a>
+    </li>
+    <li>
+      <a href="#Assumptions">Assumptions</a>
+    </li>
+    <li>
+      <a href="#Team-Selection">Team Selection</a>
+      <ol>
+        <li><a href="#Structure">Structure</a></li>
+        <li><a href="#Data-Preparation">Data Preparation</a></li>
+        <li><a href="#Entropy-weighted-method">Entropy weighted method</a></li>
+        <li><a href="#Modelling-and-team-selection">Modelling and team selection</a></li>       
+      </ol>
+    </li>
+    <li>
+      <a href="#Expense-and-Revenue">Expense and Revenue</a>
+      <ol>
+        <li><a href="#Expense">Expense</a></li>
+        <li><a href="#Revenue">Revenue</a></li>
+        <li><a href="#Net-income">Net income</a></li>
+      </ol>
+    </li>
+    <li>
+      <a href="#Economic-Effects">Economic Effects</a>
+      <ol>
+        <li><a href="#Impact-on-other-industries">Impact on other industries</a></li>
+        <li><a href="#International-impact-and-net-exports">International impact and net exports</a></li>
+      </ol>
+    </li>
+    <li>
+      <a href="#Implementation-plan">Implementation plan</a>
+    </li>
+    <li>
+      <a href="#Risk-and-Risk-mitigation">Risk and Risk mitigation</a>
+      <ol>
+        <li><a href="#Biased-data">Biased data</a></li>
+        <li><a href="#Misjudged-expense">Misjudged expense</a></li>
+        <li><a href="#Sensitivity-test-of-annual-percentage-rate-and-discount-rate">Sensitivity test of annual percentage rate and discount rate</a></li>
+      </ol>
+    </li>
+    <li>
+      <a href="#Data-and-Data-Limitation">Data and Data Limitation</a>
+      <ol>
+        <li><a href="#Data-used">Data used</a></li>
+        <li><a href="#Data-limitation">Data limitation</a></li>
+      </ol>
+    </li>
+  </ol>
+</details>
 
 ---
 
