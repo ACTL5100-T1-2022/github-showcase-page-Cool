@@ -475,8 +475,8 @@ Key metrics to monitor:
 
 1.	The win percentage and the ranking, which directly represents the strength (twice a year) 
 2.	The players’ statistics which can help the coach team to adjust. (twice a year) 
-3.	Occupancy rate and audience rating (once a year) 
-4.	The actual revenue/expense and compare with the expected one (once a year) 
+3.	Occupancy rate and audience rating (twice a year) 
+4.	The actual revenue/expense, compare with the expected one and make adjustment about the economic assumption (once a year) 
 5.	The growth in GDP (once a year） 
 
 ## Risk and Risk mitigation
