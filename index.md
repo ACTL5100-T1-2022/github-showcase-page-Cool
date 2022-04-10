@@ -22,54 +22,42 @@ This page is used to showcase our project briefly. This showcase page will inclu
 ### Table of contents
 
 1. [Objectives](#Objectives)
+2. [Assumptions](#Assumptions)
+3. [Team Selection](#Team-Selection)
 
-    <li>
-      <a href="#Assumptions">Assumptions</a>
-    </li>
-    <li>
-      <a href="#Team-Selection">Team Selection</a>
-      <ol>
-        <li><a href="#Structure">Structure</a></li>
-        <li><a href="#Data-Preparation">Data Preparation</a></li>
-        <li><a href="#Entropy-weighted-method">Entropy weighted method</a></li>
-        <li><a href="#Modelling-and-team-selection">Modelling and team selection</a></li>       
-      </ol>
-    </li>
-    <li>
-      <a href="#Expense-and-Revenue">Expense and Revenue</a>
-      <ol>
-        <li><a href="#Expense">Expense</a></li>
-        <li><a href="#Revenue">Revenue</a></li>
-        <li><a href="#Net-income">Net income</a></li>
-      </ol>
-    </li>
-    <li>
-      <a href="#Economic-Effects">Economic Effects</a>
-      <ol>
-        <li><a href="#Impact-on-other-industries">Impact on other industries</a></li>
-        <li><a href="#International-impact-and-net-exports">International impact and net exports</a></li>
-      </ol>
-    </li>
-    <li>
-      <a href="#Implementation-plan">Implementation plan</a>
-    </li>
-    <li>
-      <a href="#Risk-and-Risk-mitigation">Risk and Risk mitigation</a>
-      <ol>
-        <li><a href="#biased-data">biased data</a></li>
-        <li><a href="#misjudged-expense">misjudged expense</a></li>
-        <li><a href="#sensitivity-test-of-annual-percentage-rate-and-discount-rate">sensitivity test of annual percentage rate and discount rate</a></li>
-      </ol>
-    </li>
-    <li>
-      <a href="#Data-and-Data-Limitation">Data and Data Limitation</a>
-      <ol>
-        <li><a href="#Data-used">Data used</a></li>
-        <li><a href="#Data-limitation">Data limitation</a></li>
-      </ol>
-    </li>
-  </ol>
-</details>
+    i. [Structure](#Structure)
+    
+    ii. [Data Preparation](#Data-Preparation)
+    
+    iii. [Entropy weighted method](#Entropy-weighted-method)
+    
+    iv. [Modelling and team selection](#Modelling-and-team-selection)   
+    
+4. [Expense and Revenue](#Expense-and-Revenue)
+
+    i. [Expense](#Expense)
+    
+    ii. [Revenue](#Revenue)
+    
+    iii. [Net income](#Net-income)    
+5. [Economic Effects](#Economic-Effects)
+
+    i. [Impact on other industries](#Impact-on-other-industries)
+    
+    ii. [International impact and net exports](#International-impact-and-net-exports)    
+6. [Implementation plan](#Implementation-plan)
+7. [Risk and Risk mitigation](#Risk-and-Risk-mitigation)
+
+    i. [biased data](#Biased-data)
+    
+    ii. [misjudged expense](#Misjudged-expense)
+    
+    iii. [sensitivity test of annual percentage rate and discount rate](#Sensitivity-test-of-annual-percentage-rate-and-discount-rate)
+8. [Data and Data Limitatio](#Data-and-Data-Limitation)
+
+   i. [Data used](#Data-used)
+   
+   ii. [Data limitation](#Data-limitation)
 
 ---
 
