@@ -500,7 +500,7 @@ There has been a concern about data sets for foreign players, where the informat
 
 Detailed dimensions for historical expense data are not provided, so whether there is an extra budget for training before competition is unknown. The first attempt at this challenge may cost more than expected.
 
-**Mitigation: Add 6% loading to extreme scenario.**
+**Mitigation: Add 6% loading to the extreme scenario.**
 
 ### <ins>Sensitivity test of annual percentage rate and discount rate</ins>
 
