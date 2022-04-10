@@ -462,7 +462,7 @@ If the national soccer team we constructed is a competitive team, which means it
 
 ### <ins>International impact and net exports</ins>
 
-It seems no exaggeration to say that excellent national sports results can enhance international influence of a country to some extent, which is also a reflection of comprehensive national strength. A country with stable economic development and high international influence is relatively less at risk of capital flight than a country with political instability. Furthermore, countries with the high international influence will also increase the awareness of their products and the trust of more foreign investors and customers.
+It seems no exaggeration to say that excellent national sports results can enhance international influence of a country to some extent, which is also a reflection of comprehensive national strength. A country with stable economic development and high international influence is relatively less at risk of capital flight than a country with political instability. Furthermore, countries with the high international influence will also increase the awareness of their products and the trust of more foreign investors and customers. In some cases, the choices of products made by international consumers are partially influenced by the behavioral factors.
 
 ## Implementation plan
 
